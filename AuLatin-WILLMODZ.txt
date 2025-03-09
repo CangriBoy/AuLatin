@@ -101,10 +101,10 @@ User:EdwinQC|-|Pass:EdwinQC|-|Hwid:B =END
 User:EdwinQC|-|Pass:EdwinQC|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Jose Flores 08 de febrero
+//Jose Flores 08 de marzo
 User:JoseFr|-|Pass:JoseFr|-|Hwid:958074DB6099C549CFD25E44345F2BBA =END
 08/02/2025 //fecha de inicio
-10/03/2025 //fecha final
+11/04/2025 //fecha final
 
 User:JoseFr|-|Pass:JoseFr|-|Hwid:B =END
 --------------------------------------------------------------------------------
