@@ -1072,13 +1072,14 @@ User:BryanAE|-|Pass:BryanAE|-|Hwid:64EFC6DD99D23F89ADC3A48E1F834914 =END
 User:BryanAE|-|Pass:BryanAE|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//jc grabriel 21 de junio
+//jc grabriel 21 de julio
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:1B95B78FDCC0DA04F06076507ABF9F73 =END
 14/05/2025
-22/07/2025
+22/08/2025
 
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:B =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:C =END
+User:JcGabriel|-|Pass:JcGabriel|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
 //Jesus King 30 de diciembre
