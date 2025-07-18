@@ -399,18 +399,18 @@ User:ChristianB|-|Pass:ChristianB|-|Hwid:B =END
 User:ChristianB|-|Pass:ChristianB|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Yerson Kun Amigo de Jhordan 21 de junio
+//Yerson Kun Amigo de Jhordan 21 de julio
 User:eterno|-|Pass:eterno|-|Hwid:B8005C0F9C548DCDD87873321C9F87BA =END
-17/04/2025  //Inicio
-22/07/2025  //Final
+17/07/2025  //Inicio
+22/08/2025  //Final
 
 User:eterno|-|Pass:eterno|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
-17/04/2025  //Inicio
-22/07/2025  //Final
+17/07/2025  //Inicio
+22/08/2025  //Final
 
 User:eterno|-|Pass:eterno|-|Hwid:E98216584BD30A3844682B33EB46ED7E =END
-17/04/2025  //Inicio
-22/07/2025  //Final
+17/07/2025  //Inicio
+22/08/2025  //Final
 
 User:eterno|-|Pass:eterno|-|Hwid:A =END
 User:eterno|-|Pass:eterno|-|Hwid:B =END
@@ -419,8 +419,8 @@ User:eterno|-|Pass:eterno|-|Hwid:C =END
 --------------------------------------------------------------------------------
 //Angel amigo de Jhordan rositas
 User:Angel92|-|Pass:Angel92|-|Hwid:13B3ECBFC604E3E96BA4ACF7B5C43BF2 =END
-16/06/2025 //fecha de inicio
-18/07/2025 //fecha final
+16/07/2025 //fecha de inicio
+18/08/2025 //fecha final
 
 User:Angel92|-|Pass:Angel92|-|Hwid:B =END
 
