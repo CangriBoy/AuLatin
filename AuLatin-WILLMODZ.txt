@@ -1384,10 +1384,10 @@ User:AldaVs|-|Pass:AldaVs|-|Hwid:C =END
 User:AldaVs|-|Pass:AldaVs|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
-// Axel Ray Flores 16 de abril 3 meses
+// Axel Ray Flores 18 de julio 3 meses pendiente
 User:RyanAF|-|Pass:RyanAF|-|Hwid:BCA2DDE7EDA371E213FF3C6007822A09 =END
-16/12/2024 //fecha de inicio
-18/07/2025 //fecha final
+18/12/2024 //fecha de inicio
+18/10/2025 //fecha final
 
 User:RyanAF|-|Pass:RyanAF|-|Hwid:A =END
 User:RyanAF|-|Pass:RyanAF|-|Hwid:B =END
