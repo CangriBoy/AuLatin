@@ -30,13 +30,13 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 
 //amigo de rosia Jorge 
-User:JorgePC|-|Pass:JorgePC|-|Hwid:ACE4815058B04A65A1C44D2EBC5CF994 =END
+User:JorgeRR|-|Pass:JorgeRR|-|Hwid:ACE4815058B04A65A1C44D2EBC5CF994 =END
 19/07/2025  //Inicio
 19/08/2025  //Final
 
-User:JorgePC|-|Pass:JorgePC|-|Hwid:A =END
-User:JorgePC|-|Pass:JorgePC|-|Hwid:B =END
-User:JorgePC|-|Pass:JorgePC|-|Hwid:C =END
+User:JorgeRR|-|Pass:JorgeRR|-|Hwid:A =END
+User:JorgeRR|-|Pass:JorgeRR|-|Hwid:B =END
+User:JorgeRR|-|Pass:JorgeRR|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //jenifer cliente de wssp 10 de julio
