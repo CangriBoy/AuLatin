@@ -648,12 +648,12 @@ User:DubertGs|-|Pass:DubertGs|-|Hwid:B =END
 User:DubertGs|-|Pass:DubertGs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Sam Mondragon 24 de junio --> reducir tiempo a 5dias
+//Sam Mondragon 20 de julio --> pendiente
 User:Nehito1|-|Pass:Nehito1|-|Hwid:81D9DD95164635E2BC191F097E91235A =END
-24/06/2025 //fecha de inicio
-20/07/2025 //fecha final
+19/07/2025 //fecha de inicio
+20/08/2025 //fecha final
 
-User:Nehito1|-|Pass:Nehito1|-|Hwid:A =END
+User:Nehito1|-|Pass:Nehito1|-|Hwid:x =END
 User:Nehito1|-|Pass:Nehito1|-|Hwid:B =END
 User:Nehito1|-|Pass:Nehito1|-|Hwid:C =END
 
