@@ -28,7 +28,17 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+--------------------------------------------------------------------------------
+//Jerson Aparco
+User:JersonAP|-|Pass:JersonAP|-|Hwid:3FD3D344C02C4DF55AEF266011E621A2 =END
+22/07/2025  //Inicio
+22/08/2025  //Final
 
+User:JersonAP|-|Pass:JersonAP|-|Hwid:A =END
+User:JersonAP|-|Pass:JersonAP|-|Hwid:B =END
+User:JersonAP|-|Pass:JersonAP|-|Hwid:C =END
+
+--------------------------------------------------------------------------------
 //amigo de rosia Jorge 
 User:JorgeRR|-|Pass:JorgeRR|-|Hwid:ACE4815058B04A65A1C44D2EBC5CF994 =END
 19/07/2025  //Inicio
