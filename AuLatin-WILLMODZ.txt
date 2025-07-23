@@ -29,7 +29,7 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
-//Jerson Aparco
+//Jerson Aparco 22 de julio
 User:JersonAP|-|Pass:JersonAP|-|Hwid:3FD3D344C02C4DF55AEF266011E621A2 =END
 22/07/2025  //Inicio
 22/08/2025  //Final
@@ -386,10 +386,10 @@ User:Junniormateo|-|Pass:Junnior|-|Hwid:48CD8624AE88CCE99E9B54DC12E10C21 =END
 User:Junniormateo|-|Pass:Junnior|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Cesar Torres 24 de junio
+//Cesar Torres 24 de julio
 User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
 23/06/2025 //fecha de inicio
-25/07/2025 //fecha final
+25/08/2025 //fecha final
 
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
