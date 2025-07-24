@@ -949,10 +949,10 @@ User:Chocolatito|-|Pass:Chocolatito|-|Hwid:B =END
 User:Chocolatito|-|Pass:Chocolatito|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Andrea GA 30 de mayo
+//Andrea GA 23 de julio pendiente 20so
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:759B2CAC6B3710F6F1929F3DAEE18754 =END
-26/04/2025  //Inicio
-01/07/2025  //Final
+23/07/2025  //Inicio
+24/08/2025  //Final
 
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:A =END
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:B =END
