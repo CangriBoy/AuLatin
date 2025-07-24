@@ -568,10 +568,10 @@ User:LuisAz|-|Pass:LuisAz|-|Hwid:B =END
 User:LuisAz|-|Pass:LuisAz|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// 21 de mayo 23 dias restantes
+// Eva Bergman 23 de julio
 User:BryanRH|-|Pass:BryanRH|-|Hwid:6F97D15E12076CF574D947CCCADBC898 =END
-02/05/2025 //Inicio 
-24/07/2025 //Final
+22/07/2025 //Inicio 
+24/08/2025 //Final
 
 User:BryanRH|-|Pass:BryanRH|-|Hwid:A =END
 User:BryanRH|-|Pass:BryanRH|-|Hwid:B =END
