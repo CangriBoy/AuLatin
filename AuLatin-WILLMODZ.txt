@@ -136,10 +136,10 @@ User:DannyAG|-|Pass:DannyAG|-|Hwid:B =END
 User:DannyAG|-|Pass:DannyAG|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//renato toledo 20 de junio
+//renato toledo 25 de julio
 User:RenatoTD|-|Pass:RenatoTD|-|Hwid:D2D6D072F6F113BED5FF2D4C96193E68 =END
-19/06/2025  //Inicio
-25/07/2025  //Final
+25/07/2025  //Inicio
+25/08/2025  //Final
 
 User:RenatoTD|-|Pass:RenatoTD|-|Hwid:B =END
 
