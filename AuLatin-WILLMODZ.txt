@@ -1286,10 +1286,10 @@ User:DxAriana|-|Pass:DxAriana|-|Hwid:E68FF345BE3330BD41A66A19CA2BFD22 =END
 User:DxAriana|-|Pass:DxAriana|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//KATHERINE LE 23 de junio
+//KATHERINE LE 23 de julio, pendiente
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:9AEB5F03F376AA701BE42D686DEDD7D7 =END
-23/06/2025  //Inicio
-25/07/2025  //Final
+23/07/2025  //Inicio
+25/08/2025  //Final
 
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:A =END
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:B =END
