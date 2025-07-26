@@ -49,8 +49,8 @@ User:JorgeRR|-|Pass:JorgeRR|-|Hwid:B =END
 User:JorgeRR|-|Pass:JorgeRR|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jenifer cliente de wssp 10 de julio
-User:JeniferOs|-|Pass:JeniferOs|-|Hwid:8F78AE8128EC5FC1269F037852BC7D8B =END
+//jenifer cliente de wssp 10 de julio User:JeniferOs|-|Pass:JeniferOs|-|Hwid:8F78AE8128EC5FC1269F037852BC7D8BXX =END
+User:JeniferOs|-|Pass:JeniferOs|-|Hwid:EC51BFBE9AA2D3679A485E6D7835ABAF =END
 10/07/2025  //Inicio
 11/08/2025  //Final
 
