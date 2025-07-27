@@ -1317,7 +1317,7 @@ User:JossBs|-|Pass:JossBs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //de ronal 4 de julio
-User:ErickR|-|Pass:ErickR|-|Hwid:91F192CABBB7EBDFFB8D56B8CCA290BC =END
+User:ErickR|-|Pass:ErickR|-|Hwid:FED5A93AA9CCD45F7DCBE3A2F1A68240 =END
 02/07/2025 //Inicio 
 04/08/2025 //Final
 
