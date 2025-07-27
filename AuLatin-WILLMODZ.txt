@@ -1003,11 +1003,10 @@ User:vortex1|-|Pass:vortex1|-|Hwid:E =END
 User:vortex1|-|Pass:vortex1|-|Hwid:G =END
 
 --------------------------------------------------------------------------------
-//sergio lopez 10 de enero
-
+//sergio lopez 10 dias 27 de julio
 User:SergioLz|-|Pass:SergioLz|-|Hwid:064A649A3E287F79123ED8349EB27DEF =END
-26/01/2025
-08/02/2025
+27/07/2025
+07/08/2025
 
 User:SergioLz|-|Pass:SergioLz|-|Hwid:A =END
 User:SergioLz|-|Pass:SergioLz|-|Hwid:B =END
