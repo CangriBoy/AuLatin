@@ -1345,10 +1345,10 @@ User:ColbertA|-|Pass:ColbertA|-|Hwid:532ABB0B3E4415A4D49C2B3140FD2504 =END
 User:ColbertA|-|Pass:ColbertA|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Gerson Chirinos 30 de junio
+//Gerson Chirinos 31 de julio pendiente
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A976D6DD9D07C46D16065AE07D49B236 =END
 26/03/2025  //Inicio
-31/07/2025  //Final
+31/08/2025  //Final
 
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A =END
 User:GersonCh|-|Pass:GersonCh|-|Hwid:B =END
