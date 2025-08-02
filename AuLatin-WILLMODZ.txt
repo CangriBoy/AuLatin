@@ -28,6 +28,15 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+
+--------------------------------------------------------------------------------
+//de josue sandoval solo vip
+User:PatoPatin|-|Pass:PatoPatin|-|Hwid:E057DF26C6D6F9DE59072B371A2D5088 =END
+01/08/2025  //Inicio
+01/09/2025  //Final
+
+User:PatoPatin|-|Pass:PatoPatin|-|Hwid:B =END
+
 --------------------------------------------------------------------------------
 //Jerson Aparco 22 de julio
 User:JersonAP|-|Pass:JersonAP|-|Hwid:3FD3D344C02C4DF55AEF266011E621A2 =END
