@@ -28,6 +28,15 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+//Scarleth Plaza Z 3 de agosto
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:8626D5050A25EB007D0509710E0CC900 =END
+03/08/2025  //Inicio
+03/09/2025  //Final
+
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:A =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:B =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:C =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
 //de josue sandoval solo vip
