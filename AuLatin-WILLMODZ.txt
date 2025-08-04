@@ -28,6 +28,15 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+--------------------------------------------------------------------------------
+//rocardo de la cruz 4 de agosto
+User:RicardoDLC|-|Pass:RicardoDLC|-|Hwid:BDC4F2A373902B9CDA3A1586412C5163 =END
+04/08/2025  //Inicio
+04/09/2025  //Final
+
+User:RicardoDLC|-|Pass:RicardoDLC|-|Hwid:B =END
+
+--------------------------------------------------------------------------------
 //Scarleth Plaza Z 3 de agosto
 User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:8626D5050A25EB007D0509710E0CC900 =END
 03/08/2025  //Inicio
