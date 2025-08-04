@@ -28,6 +28,15 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+
+//Julio Ramos 4 de agosto 
+User:JulioRS|-|Pass:JulioRS|-|Hwid:A64ECFB08AF7C177232626447740BBC0 =END
+04/08/2025  //Inicio
+04/09/2025  //Final
+
+User:JulioRS|-|Pass:JulioRS|-|Hwid:B =END
+User:JulioRS|-|Pass:JulioRS|-|Hwid:C =END
+
 --------------------------------------------------------------------------------
 //rocardo de la cruz 4 de agosto
 User:RicardoDLC|-|Pass:RicardoDLC|-|Hwid:BDC4F2A373902B9CDA3A1586412C5163 =END
