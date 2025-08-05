@@ -345,6 +345,7 @@ User:JorgeZG|-|Pass:JorgeZG|-|Hwid:27D82FC9A652F50D06BE470824EDBDD5 =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:A =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:B =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:C =END
+User:JorgeZG|-|Pass:JorgeZG|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
 //Paolo ramirez 8 julio
