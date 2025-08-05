@@ -219,10 +219,10 @@ User:CristianPB|-|Pass:CristianPB|-|Hwid:B =END
 User:CristianPB|-|Pass:CristianPB|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Furuya Seoh 1 de julio
+//Furuya Seoh 5 de agosto
 User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:D15369106CEA7E7220AE4532ADFDF284 =END
-04/07/2025 //fecha de inicio
-05/08/2025 //fecha final
+04/08/2025 //fecha de inicio
+05/09/2025 //fecha final
 
 User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:C =END
 
@@ -1516,3 +1516,10 @@ User:Rositas|-|Pass:Rositas|-|Hwid:E =END
 User:Rositas|-|Pass:Rositas|-|Hwid:F =END
 User:Rositas|-|Pass:Rositas|-|Hwid:G =END
 
+--------------------------------------------------------------------------------
+//pecoso garden
+User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
+05/03/2025
+05/04/2025
+
+User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
