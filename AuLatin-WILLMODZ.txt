@@ -1284,10 +1284,10 @@ User:DanielRC|-|Pass:DanielRC|-|Hwid:B =END
 User:DanielRC|-|Pass:DanielRC|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Jimmy Sandoval 13 julio
+//Jimmy Sandoval 13 agosto
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:4144F6D6ED476C2AF4DAD34A99137125 =END
 13/07/2025
-13/08/2025
+13/09/2025
 
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:A =END
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:B =END
