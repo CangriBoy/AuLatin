@@ -431,10 +431,10 @@ User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Renzo Cota 21 de mayo
-User:RenzoCt|-|Pass:RenzoCt|-|Hwid:6EAA5C4743814F003227F3975E0E44AA =END
-21/05/2025 //fecha de inicio
-21/06/2025 //fecha final
+//Renzo Cota 5 de agosto
+User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
+04/08/2025 //fecha de inicio
+05/09/2025 //fecha final
 
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
