@@ -1132,14 +1132,14 @@ User:JcGabriel|-|Pass:JcGabriel|-|Hwid:C =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Jesus King 30 de diciembre
-User:JesusKing|-|Pass:JesusKing|-|Hwid:33DA6EC4BC1A76E6FE81F058574188B2 =END
-29/12/2024
-30/01/2025
+//Jesus King 6 de agosto
+User:JesusKing|-|Pass:JesusKing|-|Hwid:56CAAC3C2BF25114D25B70A0DA2785CD =END
+05/08/2024
+06/09/2025
 
 User:JesusKing|-|Pass:JesusKing|-|Hwid:A =END
 User:JesusKing|-|Pass:JesusKing|-|Hwid:B =END
-User:JesusKing|-||Pass:JesusKing|-|Hwid:C =END
+User:JesusKing|-|Pass:JesusKing|-|Hwid:C =END
 User:JesusKing|-|Pass:JesusKing|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
