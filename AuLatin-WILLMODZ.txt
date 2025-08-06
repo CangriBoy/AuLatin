@@ -104,10 +104,10 @@ User:AJVARGAS|-|Pass:AJVARGAS|-|Hwid:FDF48F84D94D7CFFB09F0DC006C7EE01 =END
 User:AJVARGAS|-|Pass:AJVARGAS|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//amiga de jhordan falta code
+//amiga de jhordan pendiente 2 meses
 User:Hatmik|-|Pass:Hatmik|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7 =END
 02/07/2025  //Inicio
-03/08/2025  //Final
+06/09/2025  //Final
 
 User:Hatmik|-|Pass:Hatmik|-|Hwid:A =END
 User:Hatmik|-|Pass:Hatmik|-|Hwid:B =END
