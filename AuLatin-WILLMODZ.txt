@@ -227,14 +227,14 @@ User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:D15369106CEA7E7220AE4532ADFDF284 =END
 User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Melany WS 01 de junio
+//Melany WS 06 de agosto
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:05CA328E85ABAFC70401773EB0AE589A =END
-01/07/2025 //fecha de inicio
-02/08/2025 //fecha final
+05/08/2025 //fecha de inicio
+06/09/2025 //fecha final
 
-User:MelanyWS|-|Pass:MelanyWS|-|Hwid:A =END
+User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:B =END
-User:MelanyWS|-|Pass:MelanyWS|-|Hwid:C =END
+User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 
 --------------------------------------------------------------------------------
 //Alesia  leonela 7 de julio 
