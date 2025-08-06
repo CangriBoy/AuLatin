@@ -538,7 +538,7 @@ User:StefanyAs|-|Pass:StefanyAs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 // Jesus Mrt 6 de agosto
-User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671x =END
+User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671 =END
 06/08/2025 //fecha de inicio
 06/09/2025 //fecha final
 
