@@ -1006,10 +1006,10 @@ User:JoseCt|-|Pass:JoseCt|-|Hwid:B0588D6ABDA7A607639D4FACA205CA0A =END
 User:JoseCt|-|Pass:JoseCt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//heydi saca 6 de julio
+//heydi saca 8 de agosto
 User:heysc|-|Pass:heysc925|-|Hwid:27CD7EF88A6F63B6195EF1F89D5F6AA4 =END
-04/05/2025  //Inicio
-07/08/2025 //Final
+04/08/2025  //Inicio
+08/09/2025 //Final
 
 User:heysc|-|Pass:heysc925|-|Hwid:A =END
 User:heysc|-|Pass:heysc925|-|Hwid:B =END
