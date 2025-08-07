@@ -348,10 +348,10 @@ User:JorgeZG|-|Pass:JorgeZG|-|Hwid:C =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Paolo ramirez 8 julio
+//Paolo ramirez 8 agosto
 User:PaoloRZ|-|Pass:PaoloRZ|-|Hwid:101EF0F1AC39E51381358ABB10AAA254 =END
-07/07/2025
-08/08/2025
+06/08/2025
+08/09/2025
 
 User:PaoloRZ|-|Pass:PaoloRZ|-|Hwid:B =END
 
@@ -440,7 +440,7 @@ User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Christian Balbin de wssp de  20 de junio
+//Christian Balbin de wssp de  20 de julio
 User:ChristianB|-|Pass:ChristianB|-|Hwid:ADAB02B7B17FAEB5D333A426B6748C61 =END
 16/06/2024  //Inicio
 20/08/2025  //Final
