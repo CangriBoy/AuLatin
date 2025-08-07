@@ -543,7 +543,7 @@ User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671 =END
 06/09/2025 //fecha final
 
 User:JesusMrt|-|Pass:JesusMrt|-|Hwid:A =END
-User:JesusMrt|-|Pass:JesusMrt|-|Hwid:x =END
+User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //amiga de angel donayre 19 de abril
