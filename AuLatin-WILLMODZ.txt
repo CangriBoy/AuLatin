@@ -237,10 +237,10 @@ User:MelanyWS|-|Pass:MelanyWS|-|Hwid:B =END
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 
 --------------------------------------------------------------------------------
-//Alesia  leonela 7 de julio 
+//Alesia  leonela 8 de agosto
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:D71FD69B2D7755720AD556BD43BE1B35 =END
-07/07/2025 //fecha de inicio
-08/08/2025 //fecha final
+07/08/2025 //fecha de inicio
+08/09/2025 //fecha final
 
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:A =END
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:B =END
