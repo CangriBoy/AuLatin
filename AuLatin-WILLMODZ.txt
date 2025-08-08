@@ -566,10 +566,10 @@ User:AngelDonayre|-|Pass:AngelDonayre|-|Hwid:B =END
 User:AngelDonayre|-|Pass:AngelDonayre|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jorge Luis berrio 18 de marzo
+//jorge Luis berrio 8 de agosto
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:9A66621E63BEF5C16C4940F0B75CA289 =END
-18/03/2025 //fecha de inicio
-18/04/2025 //fecha final
+07/08/2025 //fecha de inicio
+08/09/2025 //fecha final
 
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:A =END
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:B =END
