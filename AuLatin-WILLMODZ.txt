@@ -144,10 +144,10 @@ User:ReyzonTV|-|Pass:ReyzonTV|-|Hwid:B =END
 User:ReyzonTV|-|Pass:ReyzonTV|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-cristhian max 1 de julio
+cristhian max 1 de agosto 
 User:xNeru|-|Pass:1234|-|Hwid:FBFB1E2AF035378451124483751788C0 =END
 01/07/2025  //Inicio
-01/08/2025  //Final
+09/09/2025  //Final
 
 User:xNeru|-|Pass:1234|-|Hwid:A =END
 User:xNeru|-|Pass:1234|-|Hwid:B =END
