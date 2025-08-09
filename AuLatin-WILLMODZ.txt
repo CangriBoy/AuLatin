@@ -124,10 +124,10 @@ User:Suiii|-|Pass:Suiii|-|Hwid:B =END
 User:Suiii|-|Pass:Suiii|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Adrian B 2 de julio
+//Adrian B 8 de agosto
 User:AdrianB|-|Pass:AdrianB|-|Hwid:E55756C244EE96B1AE6DB8F8BCF6788B =END
-02/07/2025  //Inicio
-03/08/2025  //Final
+08/08/2025  //Inicio
+09/09/2025  //Final
 
 User:AdrianB|-|Pass:AdrianB|-|Hwid:A =END
 User:AdrianB|-|Pass:AdrianB|-|Hwid:B =END
