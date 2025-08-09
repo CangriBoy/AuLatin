@@ -1424,10 +1424,10 @@ User:Nicolo956|-|Pass:Nicolo956|-|Hwid:B =END
 User:Nicolo956|-|Pass:Nicolo956|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// Aldair VS 10 de julio, pendiente de pop
+// Aldair VS 10 de agosto , pendiente d+ pop
 User:AldaVs|-|Pass:AldaVs|-|Hwid:7D69B00E68DE2BF7BBAF0982B369F485 =END
 09/07/2025 //fecha de inicio
-10/08/2025 //fecha final
+10/09/2025 //fecha final
 
 User:AldaVs|-|Pass:AldaVs|-|Hwid:A =END
 User:AldaVs|-|Pass:AldaVs|-|Hwid:B =END
