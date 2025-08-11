@@ -105,7 +105,7 @@ User:AJVARGAS|-|Pass:AJVARGAS|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //amiga de jhordan pendiente 2 meses
-User:Hatmik|-|Pass:Hatmik|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7 =END
+User:Hatmik|-|Pass:Hatmik|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7x =END
 02/07/2025  //Inicio
 06/09/2025  //Final
 
@@ -115,7 +115,7 @@ User:Hatmik|-|Pass:Hatmik|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //amiga de jhordan hatmik falta code
-User:Suiii|-|Pass:Suiii|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7 =END
+User:Suiii|-|Pass:Suiii|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7x =END
 02/07/2025  //Inicio
 03/08/2025  //Final
 
@@ -152,6 +152,7 @@ User:xNeru|-|Pass:1234|-|Hwid:FBFB1E2AF035378451124483751788C0 =END
 User:xNeru|-|Pass:1234|-|Hwid:A =END
 User:xNeru|-|Pass:1234|-|Hwid:B =END
 User:xNeru|-|Pass:1234|-|Hwid:C =END
+User:xNeru|-|Pass:1234|-|Hwid:E =END
 
 --------------------------------------------------------------------------------
 //de rosita + 30dias
