@@ -456,11 +456,11 @@ User:eterno|-|Pass:eterno|-|Hwid:B8005C0F9C548DCDD87873321C9F87BA =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
-User:eterno|-|Pass:eterno|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
+User:eterno|-|Pass:eterno|-|Hwid:E98216584BD30A3844682B33EB46ED7E =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
-User:eterno|-|Pass:eterno|-|Hwid:E98216584BD30A3844682B33EB46ED7E =END
+User:eterno|-|Pass:eterno|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
@@ -468,6 +468,17 @@ User:eterno|-|Pass:eterno|-|Hwid:A =END
 User:eterno|-|Pass:eterno|-|Hwid:B =END
 User:eterno|-|Pass:eterno|-|Hwid:C =END
 
+
+
+
+User:eterno1|-|Pass:eterno1|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
+17/07/2025  //Inicio
+22/08/2025  //Final
+
+User:eterno1|-|Pass:eterno1|-|Hwid:A =END
+User:eterno1|-|Pass:eterno1|-|Hwid:B =END
+User:eterno1|-|Pass:eterno1|-|Hwid:C =END
+User:eterno1|-|Pass:eterno1|-|Hwid:F =END
 --------------------------------------------------------------------------------
 //Angel amigo de Jhordan rositas
 User:Angel92|-|Pass:Angel92|-|Hwid:BF5EAC111B0CFC619F4AA3A82F56A1D4 =END
@@ -1526,3 +1537,4 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
