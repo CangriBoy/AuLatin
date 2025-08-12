@@ -1101,10 +1101,10 @@ User:CataAudi|-|Pass:CataAudi|-|Hwid:B =END
 User:CataAudi|-|Pass:CataAudi|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jeff santa cruz 9 de julio, pendiente
+//jeff santa cruz 12 de agosto
 User:JeffSC|-|Pass:JeffSC|-|Hwid:96B684C8FE27678EE688B30CC0E4F2F2 =END
-09/07/2025
-10/08/2025
+12/07/2025
+13/09/2025
 
 User:JeffSC|-|Pass:JeffSC|-|Hwid:A =END
 User:JeffSC|-|Pass:JeffSC|-|Hwid:B =END
