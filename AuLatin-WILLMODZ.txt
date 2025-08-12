@@ -473,12 +473,13 @@ User:eterno|-|Pass:eterno|-|Hwid:C =END
 
 User:eterno1|-|Pass:eterno1|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
 17/07/2025  //Inicio
-22/08/2025  //Final
+22/09/2025  //Final
 
 User:eterno1|-|Pass:eterno1|-|Hwid:A =END
 User:eterno1|-|Pass:eterno1|-|Hwid:B =END
 User:eterno1|-|Pass:eterno1|-|Hwid:C =END
 User:eterno1|-|Pass:eterno1|-|Hwid:F =END
+
 --------------------------------------------------------------------------------
 //Angel amigo de Jhordan rositas
 User:Angel92|-|Pass:Angel92|-|Hwid:BF5EAC111B0CFC619F4AA3A82F56A1D4 =END
