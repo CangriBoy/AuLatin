@@ -1,4 +1,4 @@
-1.1.9.0
+1.1.9.1
 
 30322E32372E34362E736100
 asd12345678asd
@@ -1158,7 +1158,7 @@ User:JesusKing|-|Pass:JesusKing|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
 //Kevin Dolores 12 de agosto
-User:KevinDs|-|Pass:KevinDs|-|Hwid:C3539CC0F1610FBC495D83294D2FB224 =END
+User:KevinDs|-|Pass:KevinDs|-|Hwid:A3E0C5BF9FFA219D3E8ADE080D9F9BE2 =END
 12/08/2025
 13/09/2025
 
