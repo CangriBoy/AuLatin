@@ -1157,14 +1157,12 @@ User:JesusKing|-|Pass:JesusKing|-|Hwid:C =END
 User:JesusKing|-|Pass:JesusKing|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Kevin Dolores
+//Kevin Dolores 12 de agosto
 User:KevinDs|-|Pass:KevinDs|-|Hwid:C3539CC0F1610FBC495D83294D2FB224 =END
-27/10/2024
-28/11/2024
+12/08/2025
+13/09/2025
 
-User:KevinDs|-|Pass:KevinDs|-|Hwid:A =END
 User:KevinDs|-|Pass:KevinDs|-|Hwid:B =END
-User:KevinDs|-|Pass:KevinDs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //Luis Angel LG 25 de octubre
