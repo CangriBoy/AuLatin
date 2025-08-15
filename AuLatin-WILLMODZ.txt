@@ -894,14 +894,14 @@ User:JeanPatt|-|Pass:JeanPatt|-|Hwid:238B149F8D7D6E1EDE246707E4AFD602 =END
 User:JeanPatt|-|Pass:JeanPatt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//<Elen andrade 13 de junio 2meses pc y lap
+//<Elen andrade 13 de agosto 3meses pc y lap
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:56192A63FF6132BD1DAD242BB0B1A5AF =END
-13/06/2024 //Inicio 
-15/08/2025 //Final
+13/08/2024 //Inicio 
+15/11/2025 //Final
 
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:D0F8AA256F8133F44D66A7721BB1BFD8 =END
-13/06/2024 //Inicio 
-15/08/2025 //Final
+13/08/2024 //Inicio 
+15/11/2025 //Final
 
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:A =END
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:B =END
@@ -1536,4 +1536,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
