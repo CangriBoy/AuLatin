@@ -258,10 +258,10 @@ User:HaelYS|-|Pass:HaelYS|-|Hwid:B =END
 User:HaelYS|-|Pass:HaelYS|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Luis Antonio Gomez  20 de mayo 2 mese + 20so
+//Luis Antonio Gomez  17 de agosto
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:53816F36CD5D008D791F6149B287E9D7 =END
-19/04/2025  //Inicio
-12/08/2025  //Final
+17/08/2025  //Inicio
+18/09/2025  //Final
 
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:A =END
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:B =END
