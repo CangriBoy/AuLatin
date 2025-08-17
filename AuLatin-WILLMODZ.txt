@@ -184,8 +184,8 @@ User:RenatoTD|-|Pass:RenatoTD|-|Hwid:B =END
 --------------------------------------------------------------------------------
 // amigo de jhordan Bony chanel
 User:AlexSD|-|Pass:AlexSD|-|Hwid:FEA39EDF14C01C9A733D21D4408B57ED =END
-14/06/2025  //Inicio
-15/08/2025  //Final
+16/08/2025  //Inicio
+17/09/2025  //Final
 
 User:AlexSD|-|Pass:AlexSD|-|Hwid:A =END
 User:AlexSD|-|Pass:AlexSD|-|Hwid:B =END
