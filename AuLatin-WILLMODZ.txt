@@ -338,10 +338,10 @@ User:JeniferSn|-|Pass:JeniferSn|-|Hwid:B =END
 User:JeniferSn|-|Pass:JeniferSn|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Jorge Zegarra 17 de julio
+//Jorge Zegarra 18 de agosto
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:27D82FC9A652F50D06BE470824EDBDD5 =END
-17/06/2025
-19/08/2025
+17/08/2025
+19/09/2025
 
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:A =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:B =END
