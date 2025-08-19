@@ -485,8 +485,6 @@ User:eterno|-|Pass:eterno|-|Hwid:B =END
 User:eterno|-|Pass:eterno|-|Hwid:C =END
 
 
-
-
 User:eterno1|-|Pass:eterno1|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
 17/07/2025  //Inicio
 22/09/2025  //Final
@@ -497,10 +495,10 @@ User:eterno1|-|Pass:eterno1|-|Hwid:C =END
 User:eterno1|-|Pass:eterno1|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
-//Angel amigo de Jhordan rositas
+//Angel amigo de Jhordan rositas 20 de agosto
 User:Angel92|-|Pass:Angel92|-|Hwid:BF5EAC111B0CFC619F4AA3A82F56A1D4 =END
-16/07/2025 //fecha de inicio
-20/08/2025 //fecha final
+18/08/2025 //fecha de inicio
+20/09/2025 //fecha final
 
 User:Angel92|-|Pass:Angel92|-|Hwid:B =END
 
@@ -1151,10 +1149,10 @@ User:BryanAE|-|Pass:BryanAE|-|Hwid:64EFC6DD99D23F89ADC3A48E1F834914 =END
 User:BryanAE|-|Pass:BryanAE|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//jc grabriel 21 de julio
+//jc grabriel 21 de agosto pendiente
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:1B95B78FDCC0DA04F06076507ABF9F73 =END
-14/05/2025
-22/08/2025
+14/08/2025
+22/09/2025
 
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:A =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:B =END
