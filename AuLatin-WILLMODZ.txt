@@ -451,10 +451,10 @@ User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Christian Balbin de wssp de  20 de julio
+//Christian Balbin de wssp de  20 de agosto
 User:ChristianB|-|Pass:ChristianB|-|Hwid:ADAB02B7B17FAEB5D333A426B6748C61 =END
-16/06/2024  //Inicio
-20/08/2025  //Final
+16/08/2024  //Inicio
+20/09/2025  //Final
 
 User:ChristianB|-|Pass:ChristianB|-|Hwid:A =END
 User:ChristianB|-|Pass:ChristianB|-|Hwid:B =END
