@@ -494,7 +494,7 @@ User:eterno1|-|Pass:eterno1|-|Hwid:F =END
 //Angel amigo de Jhordan rositas
 User:Angel92|-|Pass:Angel92|-|Hwid:BF5EAC111B0CFC619F4AA3A82F56A1D4 =END
 16/07/2025 //fecha de inicio
-18/08/2025 //fecha final
+20/08/2025 //fecha final
 
 User:Angel92|-|Pass:Angel92|-|Hwid:B =END
 
