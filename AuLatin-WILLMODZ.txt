@@ -33,7 +33,7 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
 // dx ariana 18 de agosto
-User:DxAriana|-|Pass:DxAriana|-|Hwid:E68FF345BE3330BD41A66A19CA2BFD22 =END
+User:DxAriana|-|Pass:DxAriana|-|Hwid:D8EE7151A6D3CE2DDBCD57E1A398E673 =END
 18/08/2025  //Inicio
 19/09/2025  //Final
 
