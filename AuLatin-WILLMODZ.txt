@@ -629,10 +629,10 @@ User:LuisAz|-|Pass:LuisAz|-|Hwid:B =END
 User:LuisAz|-|Pass:LuisAz|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// Eva Bergman 23 de julio
+//Rayan Bryan Rayan Eva Bergman 23 de agosto
 User:BryanRH|-|Pass:BryanRH|-|Hwid:6F97D15E12076CF574D947CCCADBC898 =END
-22/07/2025 //Inicio 
-24/08/2025 //Final
+18/08/2025 //Inicio 
+24/09/2025 //Final
 
 User:BryanRH|-|Pass:BryanRH|-|Hwid:A =END
 User:BryanRH|-|Pass:BryanRH|-|Hwid:B =END
