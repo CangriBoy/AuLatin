@@ -30,6 +30,14 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 
 --------------------------------------------------------------------------------
+//Alonso Apaza 20 de agosto
+User:AlonsoAZ|-|Pass:AlonsoAZ|-|Hwid:41AC6EACF28839590D1D97C81B8A0CD1 =END
+19/08/2025  //Inicio
+20/09/2025  //Final
+
+User:AlonsoAZ|-|Pass:AlonsoAZ|-|Hwid:B =END
+
+--------------------------------------------------------------------------------
 //Fanny amiga de rosita 19 de agosto
 User:FanyRS|-|Pass:FanyRS|-|Hwid:93BC6A8433DFDD43C384C37103AD77C7 =END
 18/08/2025  //Inicio
