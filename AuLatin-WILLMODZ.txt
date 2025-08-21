@@ -1437,10 +1437,10 @@ User:GersonCh1|-|Pass:GersonCh1|-|Hwid:B =END
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//villafuerte Ann 9 de julio
+//villafuerte Ann 21 de agosto
 User:Roxy|-|Pass:Roxy2015|-|Hwid:AB0BAB963007D2DABF68A576933902E2 =END
-09/07/2025  //Inicio
-12/08/2025  //Final
+21/08/2025  //Inicio
+21/09/2025  //Final
 
 User:Roxy|-|Pass:Roxy2015|-|Hwid:A =END
 User:Roxy|-|Pass:Roxy2015|-|Hwid:B =END
