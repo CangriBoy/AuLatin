@@ -1438,7 +1438,7 @@ User:GersonCh1|-|Pass:GersonCh1|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //villafuerte Ann 21 de agosto
-User:Roxy|-|Pass:Roxy2015|-|Hwid:AB0BAB963007D2DABF68A576933902E2 =END
+User:Roxy|-|Pass:Roxy2015|-|Hwid:AB0BAB963007D2DABF68A576933902E2x =END
 21/08/2025  //Inicio
 21/09/2025  //Final
 
