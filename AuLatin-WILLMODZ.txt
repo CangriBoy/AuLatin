@@ -442,12 +442,10 @@ User:AlexRS|-|Pass:AlexRS|-|Hwid:F6588C7B8DDBB30EF2E8E352E70CF224 =END
 User:AlexRS|-|Pass:AlexRS|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-// HRW Monteros 15 de jujio
-User:HRWMC|-|Pass:HRWMC|-|Hwid:0C6B82AF03783A4CD2A57C865F64B4B7xxPC =END
-
+// HRW Monteros 23 de agosto
 User:HRWMC|-|Pass:HRWMC|-|Hwid:F132A0C649F1864C3B65D4D385617834 =END
-15/07/2025
-16/08/2025
+23/08/2025
+24/09/2025
 
 User:HRWMC|-|Pass:HRWMC|-|Hwid:B =END
 
