@@ -29,7 +29,14 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
+//Harold Mihu de wssp
+User:HaroldM|-|Pass:HaroldM|-|Hwid:E2D3C3885D0E94B153D6177D5B83B4F6 =END
+22/08/2025  //Inicio
+24/09/2025  //Final
 
+User:HaroldM|-|Pass:HaroldM|-|Hwid:A =END
+User:HaroldM|-|Pass:HaroldM|-|Hwid:B =END
+User:HaroldM|-|Pass:HaroldM|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //Flor Amiga de jhordan
