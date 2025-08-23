@@ -1002,10 +1002,10 @@ User:Amaia|-|Pass:Amaia|-|Hwid:B =END
 User:Amaia|-|Pass:Amaia|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Maria  Gatos 15 de julio
+//Maria  Gatos 23 de agosto
 User:Maria|-|Pass:Maria|-|Hwid:A3F53593ECEC2CE0564A3B4F0DC019DF =END
-15/07/2025
-15/08/2025
+23/08/2025
+23/09/2025
 
 User:Maria|-|Pass:Maria|-|Hwid:B =END
 User:Maria|-|Pass:Maria|-|Hwid:C =END
