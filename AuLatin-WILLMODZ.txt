@@ -1462,11 +1462,10 @@ User:Roxy|-|Pass:Roxy2015|-|Hwid:B =END
 User:Roxy|-|Pass:Roxy2015|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Nicolas Suñiga 20 de julio
+//Nicolas Suñiga 21 de agosto
 User:Nicolo956|-|Pass:Nicolo956|-|Hwid:4B7A7AC62A1C8A7E26AC9633C66C0E15 =END
-18/07/2025 //fecha de inicio
-21/08/2025 //fecha final
-
+21/08/2025 //fecha de inicio
+25/09/2025 //fecha final
 
 User:Nicolo956|-|Pass:Nicolo956|-|Hwid:A =END
 User:Nicolo956|-|Pass:Nicolo956|-|Hwid:B =END
