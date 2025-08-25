@@ -474,10 +474,10 @@ User:Junniormateo|-|Pass:Junnior|-|Hwid:48CD8624AE88CCE99E9B54DC12E10C21 =END
 User:Junniormateo|-|Pass:Junnior|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Cesar Torres 24 de julio
+//Cesar Torres 25 de agosto
 User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
-23/06/2025 //fecha de inicio
-25/08/2025 //fecha final
+24/08/2025 //fecha de inicio
+25/09/2025 //fecha final
 
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
