@@ -29,6 +29,14 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
+//victor de blizzard 25 de agosto
+User:Victor7|-|Pass:Victor7|-|Hwid:06ACA3D8DB8C9857BEDA5BEA791E5953 =END
+25/08/2025  //Inicio
+26/09/2025  //Final
+
+User:Victor7|-|Pass:Victor7|-|Hwid:B =END
+
+--------------------------------------------------------------------------------
 //Harold Mihu de wssp
 User:HaroldM|-|Pass:HaroldM|-|Hwid:E2D3C3885D0E94B153D6177D5B83B4F6 =END
 22/08/2025  //Inicio
