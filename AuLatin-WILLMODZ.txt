@@ -307,10 +307,10 @@ User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:B =END
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Hael Yens 20 de mayo pendiente
+//Hael Yens 26 de agosto
 User:HaelYS|-|Pass:HaelYS|-|Hwid:712941D28B672B4FD422BE3AED3C23D8 =END
-20/05/2025  //Inicio
-20/06/2025  //Final
+26/08/2025  //Inicio
+27/09/2025  //Final
 
 User:HaelYS|-|Pass:HaelYS|-|Hwid:A =END
 User:HaelYS|-|Pass:HaelYS|-|Hwid:B =END
