@@ -474,10 +474,10 @@ User:Rinker|-|Pass:Rinker|-|Hwid:B =END
 User:Rinker|-|Pass:Rinker|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
-//liam Junnior 28 de de junio
+//liam Junnior 28 de de julio, pendiente
 User:Junniormateo|-|Pass:Junnior|-|Hwid:48CD8624AE88CCE99E9B54DC12E10C21 =END
 28/07/2025 //Inicio 
-28/08/2025 //Final
+28/09/2025 //Final
 
 User:Junniormateo|-|Pass:Junnior|-|Hwid:B =END
 
