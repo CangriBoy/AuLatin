@@ -921,10 +921,10 @@ User:DnRubi|-|Pass:DnRubi|-|Hwid:B =END
 User:DnRubi|-|Pass:DnRubi|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//roger ip amigo de jhordan 18 de junio
+//roger ip amigo de jhordan 30 de agosto pendiente
 User:RogerIP|-|Pass:RogerIP|-|Hwid:7CAB37EFE5CCA2E178A0B215D510FD37 =END
-18/06/2025 //fecha de inicio
-30/07/2025 //fecha final
+30/08/2025 //fecha de inicio
+01/10/2025 //fecha final
 
 User:RogerIP|-|Pass:RogerIP|-|Hwid:B =END
 
@@ -1591,6 +1591,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
-
 
 
