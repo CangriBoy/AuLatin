@@ -608,6 +608,7 @@ User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671 =END
 
 User:JesusMrt|-|Pass:JesusMrt|-|Hwid:A =END
 User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B =END
+User:JesusMrt|-|Pass:JesusMrt|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
 //amiga de angel donayre 19 de abril
