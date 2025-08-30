@@ -1310,14 +1310,12 @@ User:RenzoR|-|Pass:RenzoR|-|Hwid:B =END
 User:RenzoR|-|Pass:RenzoR|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//D Sandoval 7 de julio 
-User:FredAudi1|-|Pass:FredAudi1|-|Hwid:1A18538E02D7E0FF48DB1FF717330335 =END
-01/07/2025  //Inicio
-08/08/2025  //Final
+//D Sandoval 1 de septiembre
+User:FredAudi1|-|Pass:FredAudi1|-|Hwid:DD9A9E7F532CE78C7DB318FE5F580565 =END
+30/08/2025  //Inicio
+01/10/2025  //Final
 
-User:FredAudi1|-|Pass:FredAudi1|-|Hwid:A =END
 User:FredAudi1|-|Pass:FredAudi1|-|Hwid:B =END
-User:FredAudi1|-|Pass:FredAudi1|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //de sandoval 4 de abril
@@ -1441,10 +1439,10 @@ User:ColbertA|-|Pass:ColbertA|-|Hwid:532ABB0B3E4415A4D49C2B3140FD2504 =END
 User:ColbertA|-|Pass:ColbertA|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Gerson Chirinos 31 de julio pendiente
+//Gerson Chirinos 31 de agosto
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A976D6DD9D07C46D16065AE07D49B236 =END
-26/07/2025  //Inicio
-31/08/2025  //Final
+26/08/2025  //Inicio
+01/10/2025  //Final
 
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A =END
 User:GersonCh|-|Pass:GersonCh|-|Hwid:B =END
@@ -1452,8 +1450,8 @@ User:GersonCh|-|Pass:GersonCh|-|Hwid:C =END
 
 
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:E1D1E3573BB279A8AB3000282D527967 =END
-26/07/2025  //Inicio
-31/08/2025  //Final
+26/08/2025  //Inicio
+01/10/2025  //Final
 
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:A =END
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:B =END
