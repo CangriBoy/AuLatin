@@ -152,8 +152,8 @@ User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:D =END
 --------------------------------------------------------------------------------
 //de josue sandoval solo vip
 User:PatoPatin|-|Pass:PatoPatin|-|Hwid:E057DF26C6D6F9DE59072B371A2D5088 =END
-01/08/2025  //Inicio
-01/09/2025  //Final
+30/08/2025  //Inicio
+01/10/2025  //Final
 
 User:PatoPatin|-|Pass:PatoPatin|-|Hwid:B =END
 
