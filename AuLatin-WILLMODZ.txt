@@ -719,10 +719,10 @@ User:JefryAz|-|Pass:JefryAz|-|Hwid:B =END
 User:JefryAz|-|Pass:JefryAz|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//eduardo rojas 31 de julio
+//eduardo rojas 30 de agosto
 User:EduardoRs|-|Pass:EduardoRs|-|Hwid:D116076746AC1C5C2FE32E6350620CB7 =END
-31/07/2025 //fecha de inicio
-31/08/2025 //fecha final
+30/08/2025 //fecha de inicio
+01/10/2025 //fecha final
 
 User:EduardoRs|-|Pass:EduardoRs|-|Hwid:B =END
 
