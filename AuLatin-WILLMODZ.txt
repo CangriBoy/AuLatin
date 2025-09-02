@@ -141,10 +141,10 @@ User:DxAriana|-|Pass:DxAriana|-|Hwid:D8EE7151A6D3CE2DDBCD57E1A398E673 =END
 User:DxAriana|-|Pass:DxAriana|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Julio Ramos 4 de agosto 
+//Julio Ramos 4 de septiembre
 User:JulioRS|-|Pass:JulioRS|-|Hwid:A64ECFB08AF7C177232626447740BBC0 =END
 04/08/2025  //Inicio
-04/09/2025  //Final
+05/10/2025  //Final
 
 User:JulioRS|-|Pass:JulioRS|-|Hwid:B =END
 User:JulioRS|-|Pass:JulioRS|-|Hwid:C =END
@@ -1443,7 +1443,7 @@ User:JossBs|-|Pass:JossBs|-|Hwid:B =END
 User:JossBs|-|Pass:JossBs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//de ronal 2 de agosto 
+//de ronal 2 de septiembre
 User:ErickR|-|Pass:ErickR|-|Hwid:3E296F45655916F839E6AEF202117767 =END
 02/09/2025 //Inicio 
 03/10/2025 //Final
@@ -1613,7 +1613,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
-
-
 
 
