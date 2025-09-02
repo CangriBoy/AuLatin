@@ -932,10 +932,10 @@ User:JuankaIR|-|Pass:JuankaIR|-|Hwid:C =END
 
 
 --------------------------------------------------------------------------------
-//jose vicente 5 de julio 2 meses
+//jose vicente 5 de septiembre 2 meses
 User:JoseVs|-|Pass:JoseVs|-|Hwid:EB8B29021A82BD1B3B6B1D34F0B4C9FB =END
-01/07/2025 //fecha de inicio
-05/09/2025 //fecha final
+01/09/2025 //fecha de inicio
+05/11/2025 //fecha final
 
 User:JoseVs|-|Pass:JoseVs|-|Hwid:A =END
 User:JoseVs|-|Pass:JoseVs|-|Hwid:B =END
@@ -1613,5 +1613,6 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
 
