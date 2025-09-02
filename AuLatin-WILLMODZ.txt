@@ -27,6 +27,13 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:C =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
+--------------------------------------------------------------------------------
+//pedro garcia 2 de septiembre
+User:PedroGr|-|Pass:PedroGr|-|Hwid:DEC0EDE719634E44FF1A10AD4DB6FFBF =END
+01/09/2024
+03/10/2024
+
+User:PedroGr|-|Pass:PedroGr|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //antony cliente de wssp 31 de agosto 2PC
@@ -42,6 +49,7 @@ User:AntonyRP|-|Pass:AntonyRP|-|Hwid:1B17C27DDCCB3524215101AE176F4C39 =END
 User:AntonyRP|-|Pass:AntonyRP|-|Hwid:A =END
 User:AntonyRP|-|Pass:AntonyRP|-|Hwid:B =END
 User:AntonyRP|-|Pass:AntonyRP|-|Hwid:C =END
+
 --------------------------------------------------------------------------------
 //Ronald HM 31 de agosto
 User:RonaldHM|-|Pass:RonaldHM|-|Hwid:840B7B9D0C6334F9497AEAF1801BBECF =END
@@ -1001,14 +1009,6 @@ User:ValentinOs|-|Pass:ValentinOs|-|Hwid:91E4BD10CEFB02566370550D2B646F67 =END
 User:ValentinOs|-|Pass:ValentinOs|-|Hwid:A =END
 User:ValentinOs|-|Pass:ValentinOs|-|Hwid:B =END
 User:ValentinOs|-|Pass:ValentinOs|-|Hwid:C =END
-
---------------------------------------------------------------------------------
-//pedro garcia
-User:PedroGr|-|Pass:PedroGr|-|Hwid:DEC0EDE719634E44FF1A10AD4DB6FFBF =END
-02/12/2024
-22/12/2024
-
-User:PedroGr|-|Pass:PedroGr|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //de josue sandoval 30 de noviembre
