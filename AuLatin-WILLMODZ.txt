@@ -27,6 +27,17 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:C =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
+
+--------------------------------------------------------------------------------
+//Hans Pedraza Azurza 1 de septiembre
+User:HansPA|-|Pass:HansPA|-|Hwid:E87D80464E5DFCFFBE1D3AB8E4BCFDF1 =END
+01/09/2025
+03/10/2025
+
+User:HansPA|-|Pass:HansPA|-|Hwid:A =END
+User:HansPA|-|Pass:HansPA|-|Hwid:B =END
+User:HansPA|-|Pass:HansPA|-|Hwid:C =END
+
 --------------------------------------------------------------------------------
 //pedro garcia 2 de septiembre
 User:PedroGr|-|Pass:PedroGr|-|Hwid:DEC0EDE719634E44FF1A10AD4DB6FFBF =END
@@ -1602,7 +1613,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
-
-
 
 
