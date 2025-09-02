@@ -1260,10 +1260,10 @@ User:LuisALG|-|Pass:LuisALG|-|Hwid:B =END
 User:LuisALG|-|Pass:LuisALG|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// jeysonPY 16 de mayo
+// jeysonPY 02 de septiembre
 User:JeysonPY|-|Pass:JeysonPY|-|Hwid:B65F95AB632BDF4F594E56F102C83024 =END
-16/04/2025
-16/06/2025
+02/09/2025
+03/10/2025
 
 User:JeysonPY|-|Pass:JeysonPY|-|Hwid:A =END
 User:JeysonPY|-|Pass:JeysonPY|-|Hwid:B =END
