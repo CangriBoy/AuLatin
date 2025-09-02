@@ -1443,10 +1443,10 @@ User:JossBs|-|Pass:JossBs|-|Hwid:B =END
 User:JossBs|-|Pass:JossBs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//de ronal 4 de julio
-User:ErickR|-|Pass:ErickR|-|Hwid:FED5A93AA9CCD45F7DCBE3A2F1A68240 =END
-02/07/2025 //Inicio 
-04/08/2025 //Final
+//de ronal 2 de agosto 
+User:ErickR|-|Pass:ErickR|-|Hwid:3E296F45655916F839E6AEF202117767 =END
+02/09/2025 //Inicio 
+03/10/2025 //Final
 
 User:ErickR|-|Pass:ErickR|-|Hwid:B =END
 
@@ -1613,5 +1613,6 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
 
