@@ -542,10 +542,10 @@ User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Renzo Cota 5 de agosto
+//Renzo Cota 5 de septiembre
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
-04/08/2025 //fecha de inicio
-05/09/2025 //fecha final
+04/09/2025 //fecha de inicio
+05/10/2025 //fecha final
 
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
@@ -1613,6 +1613,7 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
 
 
