@@ -321,10 +321,10 @@ User:RonaldoV|-|Pass:RonaldoV|-|Hwid:794DDE8AD7923DCE2185EB9101875D70 =END
 User:RonaldoV|-|Pass:RonaldoV|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Cristian Paco Balbin 12 de julio
+//Cristian Paco Balbin 2 de septiembre 
 User:CristianPB|-|Pass:CristianPB|-|Hwid:CD555D77EDD41145B44BB88D121B8590 =END
-11/07/2025  //Inicio
-12/08/2025  //Final
+02/09/2025  //Inicio
+04/10/2025  //Final
 
 User:CristianPB|-|Pass:CristianPB|-|Hwid:A =END
 User:CristianPB|-|Pass:CristianPB|-|Hwid:B =END
