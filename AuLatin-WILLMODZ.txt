@@ -495,7 +495,7 @@ User:KamilaOT|-|Pass:KamilaOT|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //alex rojas 04 de agosto
-User:AlexRS|-|Pass:AlexRS|-|Hwid:F6588C7B8DDBB30EF2E8E352E70CF224 =END
+User:AlexRS|-|Pass:AlexRS|-|Hwid:D8B0D6C9D44DEEAC9A6F16FDDCBD3E2B =END
 04/08/2025
 05/09/2025
 
@@ -1613,6 +1613,7 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
 
 
