@@ -542,10 +542,10 @@ User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Renzo Cota 5 de septiembre
+//Renzo Cota 5 de agosto
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
-04/09/2025 //fecha de inicio
-05/10/2025 //fecha final
+04/08/2025 //fecha de inicio
+05/09/2025 //fecha final
 
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
@@ -1492,10 +1492,10 @@ User:GersonCh1|-|Pass:GersonCh1|-|Hwid:B =END
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//villafuerte Ann 21 de agosto
-User:Roxy|-|Pass:Roxy2015|-|Hwid:AB0BAB963007D2DABF68A576933902E2x =END
-21/08/2025  //Inicio
-23/09/2025  //Final
+//villafuerte Ann 4 de septiembre
+User:Roxy|-|Pass:Roxy2015|-|Hwid:AB0BAB963007D2DABF68A576933902E2 =END
+04/09/2025  //Inicio
+04/10/2025  //Final
 
 User:Roxy|-|Pass:Roxy2015|-|Hwid:A =END
 User:Roxy|-|Pass:Roxy2015|-|Hwid:B =END
@@ -1613,9 +1613,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
-
-
-
-
 
 
