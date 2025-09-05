@@ -331,12 +331,13 @@ User:CristianPB|-|Pass:CristianPB|-|Hwid:B =END
 User:CristianPB|-|Pass:CristianPB|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Furuya Seoh 6 de de septiembre
-User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:D15369106CEA7E7220AE4532ADFDF284 =END
+//Saory Mendoza 6 de de septiembre
+User:SaoryMZ|-|Pass:SaoryMZ|-|Hwid:D15369106CEA7E7220AE4532ADFDF284 =END
 04/09/2025 //fecha de inicio
 06/10/2025 //fecha final
 
-User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:C =END
+User:SaoryMZ|-|Pass:SaoryMZ|-|Hwid:B =END
+User:SaoryMZ|-|Pass:SaoryMZ|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //Melany WS 06 de agosto
