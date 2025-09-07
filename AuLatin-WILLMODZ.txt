@@ -340,10 +340,10 @@ User:SaoryMZ|-|Pass:SaoryMZ|-|Hwid:B =END
 User:SaoryMZ|-|Pass:SaoryMZ|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Melany WS 06 de agosto
+//Melany WS 07 de septiembre 
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:05CA328E85ABAFC70401773EB0AE589A =END
 05/08/2025 //fecha de inicio
-06/09/2025 //fecha final
+08/10/2025 //fecha final
 
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:B =END
