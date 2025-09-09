@@ -29,7 +29,7 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
 //amigo de yerson kun lusho
-User:lusho|-|Pass:lusho|-|Hwid:9A8F8FD8A04DAFF01F33A9566853315F1 =END
+User:lusho|-|Pass:lusho|-|Hwid:9A8F8FD8A04DAFF01F33A9566853315F =END
 08/09/2025
 09/10/2025
 
@@ -1623,5 +1623,6 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
 
 
