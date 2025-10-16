@@ -1,4 +1,4 @@
-1.1.9.3
+1.1.9.2
 
 30322E32372E34372E736100
 asd12345678asd
@@ -369,7 +369,7 @@ User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:B =END
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Hael Yens 26 de agosto
+//Hael Yens 26 de agosto -> 96FB250D09E056FC1E21BCA58205A32B
 User:HaelYS|-|Pass:HaelYS|-|Hwid:712941D28B672B4FD422BE3AED3C23D8 =END
 26/08/2025  //Inicio
 27/09/2025  //Final
@@ -382,7 +382,7 @@ User:HaelYS|-|Pass:HaelYS|-|Hwid:C =END
 //Luis Antonio Gomez  17 de agosto
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:53816F36CD5D008D791F6149B287E9D7 =END
 17/08/2025  //Inicio
-18/09/2025  //Final
+11/11/2025  //Final
 
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:A =END
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:B =END
@@ -1426,7 +1426,7 @@ User:EdusitoR|-|Pass:EdusitoR|-|Hwid:x =END
 //KATHERINE LE 24 de julio, pendiente
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:9AEB5F03F376AA701BE42D686DEDD7D7 =END
 24/07/2025  //Inicio
-26/08/2025  //Final
+16/11/2025  //Final
 
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:A =END
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:B =END
@@ -1623,6 +1623,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
-
 
 
